@@ -618,7 +618,7 @@ Public Class Form1
     End Sub
 
     Private Sub Label3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label3.Click
-        Application.Exit()
+        Application.Exit() 'testing
 
     End Sub
 
